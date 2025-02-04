@@ -42,7 +42,7 @@ body {
     display: flex;
     justify-content: center; /* Empuja la imagen a la derecha */
     align-items: center;
-    width: 80px !important; /* Fuerza el tamaño de la imagen */
+    width: 100px !important; /* Fuerza el tamaño de la imagen */
     height: auto !important; /* Mantiene la proporción */
     max-width: 100% !important; /* Evita que supere el tamaño del contenedor */
     display: block; /* Evita espacios adicionales */
