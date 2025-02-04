@@ -41,25 +41,6 @@ function mostrarAmigos(){
         lista.appendChild(nuevoAmigo);                  
     }
 }
-function actualizarLista() {
-    let lista = document.getElementById("listaAmigos");
-    lista.innerHTML = ""; // Borra la lista para actualizar
-    listaAmigos.forEach(nombre => {
-        let li = document.createElement("li");
-        li.textContent = nombre;
-        lista.appendChild(li);
-    });
-}
-
-function repetirLista() {
-    actualizarLista();
-}
-
-function limpiarLista() {
-    listaAmigos = []; // Borra la lista
-    document.getElementById("listaAmigos").innerHTML = "";
-    document.getElementById("resultado").innerHTML = "";
-}
 
 // sorteo de amigos
 
