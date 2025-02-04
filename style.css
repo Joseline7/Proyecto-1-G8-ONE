@@ -137,6 +137,34 @@ button {
 .button-add:hover {
     background-color: #444444;
 }
+.button-container {
+    display: flex;
+    justify-content: space-between; /* Ubica un botón a la izquierda y otro a la derecha */
+    gap: 10px; /* Espacio entre los botones */
+    margin-top: 20px;
+}
+
+.button-repeat, .button-clear, .button-draw {
+    background-color: #4CAF50; /* Color verde */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.button-clear {
+    background-color: #f44336; /* Rojo para el botón de limpiar */
+}
+
+.button-repeat {
+    background-color: #ff9800; /* Naranja para repetir la lista */
+}
+
+.button-repeat:hover, .button-clear:hover, .button-draw:hover {
+    opacity: 0.8;
+}
 
 /* Listas */
 ul {
