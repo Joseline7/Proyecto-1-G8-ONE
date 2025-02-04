@@ -10,3 +10,6 @@ El desarrollo tiene las siguientes características:
 La visualización será por medio de la siguiente página:
 ![Uploading image.png…]()
 
+Restricciones:
+1.No puedes ingresar un mismo nombre a una lista de amigo secreto
+2.Puedes repetir el juego una vez se termine con el sorteo
