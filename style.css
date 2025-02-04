@@ -26,20 +26,17 @@ body {
 .main-content {
     display: flex;
     flex-direction: column;
-    /*height: 100%;*/
-    /*width: 100%;*/
-    max-width: 1200px; /* Ajusta según lo necesites */
-    margin: 0 auto; /* Centra horizontalmente */
-    padding: 20px;
+    height: 100%;
+    width: 100%;
 }
 
 /* Banner */
 .header-banner {
-    flex: 40%;
+    flex: 10%;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 40px 0 0;
+    padding: 10px 0 0;
 }
 
 /* Sección de entrada */
