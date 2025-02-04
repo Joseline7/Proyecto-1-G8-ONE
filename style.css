@@ -45,7 +45,7 @@ body {
     max-width: 50%; /* Asegura que no crezca demasiado */
     overflow: hidden; /* Evita que los elementos dentro crezcan demasiado */
 }
-.header-banner 1im {
+.header-banner img {
     width: 80px !important; /* Fuerza el tamaño de la imagen */
     height: auto !important; /* Mantiene la proporción */
     max-width: 100% !important; /* Evita que supere el tamaño del contenedor */
