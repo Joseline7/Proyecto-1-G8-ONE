@@ -1,5 +1,5 @@
 # Proyecto-1-G8-ONE
-Proyecto 1: Se realiza el challenge titulado "Amigo Secreto" donde se pone a prueba los conocimientos del la etapa de Formación de Porgramación.
+Proyecto 1: Se realiza el challenge titulado "Amigo Secreto" donde se pone a prueba los conocimientos de la etapa de Formación de Porgramación.
 
 ## El desarrollo tiene las siguientes características:
 
