@@ -32,11 +32,11 @@ body {
 
 /* Banner */
 .header-banner {
-    flex: 100%;
+    flex: 150%;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 100px 0 0;
+    padding: 150px 0 0;
 }
 
 /* Sección de entrada */
