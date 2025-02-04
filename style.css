@@ -59,7 +59,7 @@ body {
     align-items: center;
     padding: 20px;
     width: 100%;
-    color: #444444;
+    color: var(#444444--color-text);
 }
 
 /* Títulos */
