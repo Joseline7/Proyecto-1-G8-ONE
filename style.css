@@ -32,18 +32,11 @@ body {
 
 /* Banner */
 .header-banner {
-    /*flex: 1%;
+    flex: 1%;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px 0 0;*/
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column; /* Asegura que el contenido esté en columna */
-    padding: 20px; /* Reducido para evitar espacio excesivo */
-    max-width: 50%; /* Asegura que no crezca demasiado */
-    overflow: hidden; /* Evita que los elementos dentro crezcan demasiado */
+    padding: 20px 0 0;
 }
 .header-banner img {
     width: 80px !important; /* Fuerza el tamaño de la imagen */
