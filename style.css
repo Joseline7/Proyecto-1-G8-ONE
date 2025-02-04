@@ -39,13 +39,15 @@ body {
     padding: 20px 0 0;
 }
 .header-banner img {
+    display: flex;
+    justify-content: flex-end; /* Empuja la imagen a la derecha */
+    align-items: center;
     width: 80px !important; /* Fuerza el tamaño de la imagen */
     height: auto !important; /* Mantiene la proporción */
     max-width: 100% !important; /* Evita que supere el tamaño del contenedor */
     display: block; /* Evita espacios adicionales */
     object-fit: contain; /* Ajusta la imagen dentro del tamaño sin recortarla */
     margin-left: auto; /* Mueve la imagen a la derecha */
-    text-align: right;
 }
 /* Sección de entrada */
 .input-section {
