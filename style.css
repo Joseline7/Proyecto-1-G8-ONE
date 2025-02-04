@@ -44,6 +44,7 @@ body {
     max-width: 100% !important; /* Evita que supere el tamaño del contenedor */
     display: block; /* Evita espacios adicionales */
     object-fit: contain; /* Ajusta la imagen dentro del tamaño sin recortarla */
+     margin-left: auto; /* Mueve la imagen a la derecha */
 }
 /* Sección de entrada */
 .input-section {
