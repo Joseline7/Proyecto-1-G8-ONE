@@ -8,3 +8,5 @@ El desarrollo tiene las siguientes características:
   3. El resultado final es entregar el nombre del amigo secreto.
      
 La visualización será por medio de la siguiente página:
+![Uploading image.png…]()
+
