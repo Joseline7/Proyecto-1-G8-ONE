@@ -40,14 +40,13 @@ body {
 }
 .header-banner img {
     display: flex;
-    justify-content: center; /* Empuja la imagen a la derecha */
+    justify-content: center; /* Empuja la imagen */
     align-items: center;
     width: 100px !important; /* Fuerza el tamaño de la imagen */
     height: auto !important; /* Mantiene la proporción */
     max-width: 100% !important; /* Evita que supere el tamaño del contenedor */
     display: block; /* Evita espacios adicionales */
     object-fit: contain; /* Ajusta la imagen dentro del tamaño sin recortarla */
-    margin-left: auto; /* Mueve la imagen a la derecha */
 }
 /* Sección de entrada */
 .input-section {
