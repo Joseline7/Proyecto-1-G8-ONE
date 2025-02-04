@@ -40,7 +40,7 @@ body {
 }
 .header-banner img {
     display: flex;
-    justify-content: flex-end; /* Empuja la imagen a la derecha */
+    justify-content: center; /* Empuja la imagen a la derecha */
     align-items: center;
     width: 80px !important; /* Fuerza el tamaño de la imagen */
     height: auto !important; /* Mantiene la proporción */
