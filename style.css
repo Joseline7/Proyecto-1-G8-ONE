@@ -45,7 +45,13 @@ body {
     max-width: 50%; /* Asegura que no crezca demasiado */
     overflow: hidden; /* Evita que los elementos dentro crezcan demasiado */
 }
-
+.header-banner 1im {
+    width: 80px !important; /* Fuerza el tamaño de la imagen */
+    height: auto !important; /* Mantiene la proporción */
+    max-width: 100% !important; /* Evita que supere el tamaño del contenedor */
+    display: block; /* Evita espacios adicionales */
+    object-fit: contain; /* Ajusta la imagen dentro del tamaño sin recortarla */
+}
 /* Sección de entrada */
 .input-section {
     flex: 60%;
