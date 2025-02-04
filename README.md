@@ -11,6 +11,8 @@ La visualización será por medio de la siguiente página:
 ![Descripción de la imagen](1.png)
 
 Restricciones:
+
 1.No puedes ingresar un mismo nombre a una lista de amigo secreto
 2.Puedes repetir el juego una vez se termine con el sorteo
+
 ![Descripción de la imagen](12.png)
