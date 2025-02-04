@@ -2,7 +2,7 @@
     --color-primary: #5efd49;
     --color-secondary: #da73e3;
     --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
+    --color-button: #d8e520;
     --color-button-hover: #e55720;
     --color-text: #444444;
     --color-white: #FFFFFF;
@@ -42,7 +42,7 @@ body {
 /* Sección de entrada */
 .input-section {
     flex: 60%;
-    background-color: var(--color-secondary);
+    background-color: var(--color-primary);
     border: 1px solid #000;
     border-radius: 64px 64px 0 0;
     display: flex;
